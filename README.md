@@ -1,6 +1,6 @@
 # ASSIGNMENT 2
 
-# POWER BI (Explaining data and presenting with visuals)
+# POWER BI (Explaining data and visualiazation)
 Mentioning the steps which is done in the ASSIGNMENT
 
 1. Here, I expalined about the which kinds of data i used.
